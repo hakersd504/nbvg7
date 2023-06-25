@@ -1,20 +1,15 @@
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Python: Current File",
-      "type": "python",
-      "request": "launch",
-      "program": "${file}",
-      "console": "integratedTerminal",
-      "justMyCode": false
-    },
-    {
-      "name": "Python: Debug Tests",
-      "type": "python",
-      "request": "launch",
-      "program": "${file}",
-      "purpose": ["debug-test"],
-      "console": "integratedTerminal",
-      "justMyCode": true
-    }
+slug: python/function
+name: Python Function Snippets
+shortName: Python Functions
+miniName: Function
+featured: true
+parent: python
+languageMatcher: python
+tagMatcher: function
+description: >-
+  The Python snippet collection contains helper functions for Python 3.6. It
+  includes utilities for most common data types, such as primitivies, lists,
+  dictionaries and date objects.
+shortDescription: >-
+  A snippet collection of function helpers and tips for Python 3.6.
+splash: terrarium.png
